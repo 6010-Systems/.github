@@ -1,5 +1,5 @@
 <div align="center">
 
-> *"Empty pockets taught us ambition; hustlin’ 24/7 builds the legacy. Born in the trenches, destined for the summit—we turn struggle into code, execution, and reality."*
+  *"Zero sleep, skipped meals, gallons of coffee, and infinite runtime errors. Hustlin’ 24/7 until the code finally complies."*
 
 </div>
